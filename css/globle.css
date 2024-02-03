@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(244, 187, 187)
+}
+
+div{
+    padding:10px;
+    margin-top: 20vh;
+    text-align:center; 
+    border:2px solid;
+    border-radius: 2ch;
+    border-color: black;
+
+    
+
+    /* display: inline-block; */
+
+}
